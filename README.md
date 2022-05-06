@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @inaco-krut
+- 👋 Hi, I’m Fredrik
 - 👀 I’m interested in ... software testing
 - 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... programming skills
+- 💞️ I’m looking to collaborate on ... Java projects
 - 📫 How to reach me ... fredrik.agren@utb.ecutbildning.se
 
 <!---
